@@ -1,1 +1,19 @@
-{"output":[{"id":"1","name":"Apple iPhone 6S"},{"id":"2","name":"Samsung Galaxy S6"},{"id":"3","name":"Apple iPhone 6S Plus"},{"id":"4","name":"LG G4"},{"id":"5","name":"Moto G4 Plus"},{"id":"6","name":"Panasonic p81"}]}
+output	
+0	
+id	"1"
+name	"Apple iPhone 6S"
+1	
+id	"2"
+name	"Samsung Galaxy S6"
+2	
+id	"3"
+name	"Apple iPhone 6S Plus"
+3	
+id	"4"
+name	"LG G4"
+4	
+id	"5"
+name	"Moto G4 Plus"
+5	
+id	"6"
+name	"Panasonic p81"
